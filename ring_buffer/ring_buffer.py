@@ -19,3 +19,4 @@ class RingBuffer:
 
     def get(self):
         return self.newArray
+# testing

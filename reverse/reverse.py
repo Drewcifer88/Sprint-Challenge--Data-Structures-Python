@@ -48,3 +48,4 @@ class LinkedList:
             prev = current
             current = next_node
         self.head = prev
+# testing
