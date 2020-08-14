@@ -85,3 +85,4 @@ class BSTNode:
                 node.append(current.right)
             if current.left:
                 node.append(current.left)
+# testing
